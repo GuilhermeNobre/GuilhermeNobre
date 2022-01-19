@@ -1,5 +1,5 @@
 ## Olá, seja bem-vindo ao meu GitHub 👋
-- 🔭 Eu estou atualmente trabalhando com desenvolvimento em Hardware 
+- 🔭 Eu estou atualmente trabalhando com desenvolvimento em Hardware e sistesmas IoT
 - 🌱 Eu esto estudando diversas linguagens afins com JS, Python e C#
 
 <div align="left">
