@@ -26,6 +26,8 @@
 ## Projetos em destaque
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeNobre&repo=Creative-Technologic-CRUD)](https://github.com/GuilhermeNobre/Creative-Technologic-CRUD)
 
+![Snake animation](https://github.com/GuilhermeNobre/GuilhermeNobre/blob/output/github-contribution-grid-snake.svg)
+  
 <!--
 **GuilhermeNobre/GuilhermeNobre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
