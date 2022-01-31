@@ -9,7 +9,7 @@
 </div>
 
  
-## As linguagens e sistemas que tenho experiência 
+## As linguagens e sistemas que eu trabalho 
 <div style="display: inline_block" align="left"><br>
   <img align="center" alt="Gui-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg">
   <img align="center" alt="Gui-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
