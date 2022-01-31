@@ -24,7 +24,7 @@
 </div>
   
 ## Projetos em destaque
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeNobre&repo=Creative-Technologic-CRUD)](https://github.com/GuilhermeNobre/Creative-Technologic-CRUD)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeNobre&repo=Oled-Arduino)](https://github.com/GuilhermeNobre/Oled-Arduino)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeNobre&repo=Creative-Technologic-CRUD)](https://github.com/GuilhermeNobre/Creative-Technologic-CRUD)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeNobre&repo=Oled-Arduino)](https://github.com/GuilhermeNobre/Oled-Arduino)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeNobre&repo=Space-Invader-PyGame)](https://github.com/GuilhermeNobre/Space-Invader-PyGame)
 
 ![Snake animation](https://github.com/GuilhermeNobre/GuilhermeNobre/blob/output/github-contribution-grid-snake.svg)
   
