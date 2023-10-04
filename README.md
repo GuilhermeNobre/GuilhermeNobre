@@ -2,13 +2,6 @@
 - 🔭 Eu estou atualmente trabalhando com desenvolvimento em 💻 e sistemas IoT 🖥
 - 🌱 Eu esto estudando diversas linguagens afins com JS, Python e C#
 
-<div align="left">
-  <a href="https://github.com/GuilhermeNobre">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeNobre&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeNobre&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
- 
 ## As linguagens e sistemas que eu trabalho 
 <div style="display: inline_block" align="left"><br>
   <img align="center" alt="Gui-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg">
