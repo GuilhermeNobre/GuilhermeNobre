@@ -1,6 +1,6 @@
 ## Olá, seja bem-vindo ao meu GitHub 👋
 - 🔭 Eu estou atualmente trabalhando com desenvolvimento em 💻 e sistemas IoT 🖥
-- 🌱 Eu esto estudando diversas linguagens afins com JS, Python e C#
+- 🌱 Eu esto estudando diversas linguagens e frameworks
 
 ## As linguagens e sistemas que eu trabalho 
 <div style="display: inline_block" align="left"><br>
