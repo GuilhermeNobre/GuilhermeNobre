@@ -16,8 +16,8 @@
   <img align="center" alt="Gui-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
 </div>
   
-## Projetos em destaque
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeNobre&repo=Creative-Technologic-CRUD)](https://github.com/GuilhermeNobre/Creative-Technologic-CRUD)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeNobre&repo=Oled-Arduino)](https://github.com/GuilhermeNobre/Oled-Arduino)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeNobre&repo=Space-Invaders-Python)](https://github.com/GuilhermeNobre/Space-Invaders-Python)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeNobre&repo=python-planets)](https://github.com/GuilhermeNobre/python-planets)
+<!--## Projetos em destaque
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeNobre&repo=Creative-Technologic-CRUD)](https://github.com/GuilhermeNobre/Creative-Technologic-CRUD)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeNobre&repo=Oled-Arduino)](https://github.com/GuilhermeNobre/Oled-Arduino)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeNobre&repo=Space-Invaders-Python)](https://github.com/GuilhermeNobre/Space-Invaders-Python)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeNobre&repo=python-planets)](https://github.com/GuilhermeNobre/python-planets)-->
   
 ![Snake animation](https://github.com/GuilhermeNobre/GuilhermeNobre/blob/output/github-contribution-grid-snake.svg)
   
